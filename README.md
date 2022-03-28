@@ -1,4 +1,4 @@
-A sample Java application to display famous quotes.  Fix
+A sample Java application to display famous quotes.  Fixes 3rd Issue
 
 Run `mvn package` to create JAR, and `mvn package -Pwar` to create WAR.
 
